@@ -1,0 +1,1 @@
+My project is based on artificial intelliigence. It is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans,such as:speech recognition.
